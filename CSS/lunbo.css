@@ -1,0 +1,25 @@
+
+.total{
+	height: 491.1px;
+	width: 2000px;
+	overflow: hidden;
+}
+
+.total ul{
+	height: 491.1px;
+	width: 10000px;
+}
+
+.total ul li{
+	float: left;
+	width: 2000px;
+	height: 491.1px;
+	list-style: none;
+}
+
+	
+.total img{
+	width: 100%;
+	height: 100%;
+}
+
